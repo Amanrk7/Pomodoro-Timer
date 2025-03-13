@@ -1,0 +1,83 @@
+body {
+  padding: 1rem 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+main {
+  max-width: 700px;
+  width: 100%;
+  justify-self: center;
+}
+
+header,
+main,
+footer {
+  width: 100%;
+  max-width: 700px;
+  padding: 1rem;
+  margin: 0 auto;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+header h1 {
+  width: fit-content;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex: 1;
+}
+.con_tainer {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+.tabs_pomo {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.tabs_pomo button {
+  padding: 2rem;
+  width: 48%;
+}
+.time_pomo {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 3rem;
+  align-items: baseline;
+}
+.minutes_time,
+.seconds_time {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1.9rem;
+  align-items: center;
+}
+.m_time,
+.s_time {
+  font-size: 10rem;
+  font-family: fantasy;
+  border: 1px solid var(--background-muted);
+  padding: 5rem;
+}
+.m_time {
+  color: #ffb500;
+}
+.s_time {
+  color: #ffffff;
+}
