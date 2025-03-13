@@ -67,17 +67,31 @@ main {
   gap: 1rem;
   margin-top: 1.9rem;
   align-items: center;
+  width: 50%;
 }
 .m_time,
 .s_time {
   font-size: 10rem;
-  font-family: fantasy;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   border: 1px solid var(--background-muted);
   padding: 5rem;
+  width: 100%;
+  text-align: center;
 }
 .m_time {
   color: #ffb500;
 }
 .s_time {
   color: #ffffff;
+}
+
+@media (max-width: 640px) {
+  .m_time,
+  .s_time {
+    font-size: 5rem;
+    border: 1px solid var(--background-muted);
+    padding: 2rem;
+  }
 }

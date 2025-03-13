@@ -30,7 +30,7 @@
 - This plan uses a structure known as the Pomodoro Cycle, and follows this rotation ⬇️
   Work → Short Break → Work → Short Break → Work → Short Break → Work → Long Break → Repeat
 
--Complete all of your tasks using this cycle and track your progress along the way ✅
+- Complete all of your tasks using this cycle and track your progress along the way ✅
 
 ### Tips for Success
 
