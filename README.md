@@ -1,4 +1,4 @@
-#PTimer
+# PTimer
 
 ### Complete this Pomodoro program if you want to...
 - Boost your productivity and focus
@@ -8,16 +8,16 @@
 - Become a lifelong master of productivity
 
 ### The Rules : To complete this program, you MUST follow these 3 simple rules:
-#### Focus
+#### 1. Focus
 - Work in uninterrupted 25-minute intervals (Pomodoros).
 - Avoid distractions like phones, emails, or social media during each Pomodoro.
 
-#### Rest
+#### 2. Rest
 - Take a 5-minute break after each Pomodoro.
 - After completing 4 Pomodoros, take a longer break (15-30 minutes).
 
-#### Track Progress
--Use a timer or app to track your Pomodoros.
+#### 3. Track Progress
+- Use a timer or app to track your Pomodoros.
 - Keep a log of tasks completed during each session to measure your productivity.
 
 ### The Pomodoro Plan
